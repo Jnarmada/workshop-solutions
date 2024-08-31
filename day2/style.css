@@ -1,0 +1,42 @@
+.image{
+    height:300px;
+    width:300px;
+    clip-path: circle();
+    border-radius: 5px;
+    border:2px black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    text-align: center;
+    color:rgb(90, 91, 93);
+    background-color:rgb(250, 223, 183);
+    border-radius: 5px;
+    padding:5px;
+    
+}
+h2{
+    text-align: center;
+    color: rgb(255, 0, 157);
+    border-radius: 5px;
+    padding:5px;
+}
+.div1{
+    text-align: center;
+    background-color:lavenderblush;
+    border-radius: 5px;
+    padding: 2px;
+    
+}
+.div2{
+    text-align: center;
+    background-color:lavenderblush;
+    border-radius: 5px;
+    
+}
+.hd1{
+    text-align: center;
+    font-size:xx-large;
+    color: brown
+}
