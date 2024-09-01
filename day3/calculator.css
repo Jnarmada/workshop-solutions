@@ -1,0 +1,53 @@
+.b5, .b6, .b7, .b9, .b10,.b11, .b13, .b14, .b15, .b17, .b18{
+    width: 70px;
+    height:70px;
+    margin-top: 5px;
+    font-size: xx-large;
+    cursor: pointer;
+    margin-bottom:3px;
+}
+.b8, .b12, .b16{
+    width: 70px;
+    height:70px;
+    margin-top: 5px;
+    font-size: xx-large;
+    cursor: pointer;
+    background:orange;   
+    margin-bottom: 3px;
+}
+.b1, .b2, .b3{
+    width: 70px;
+    height:70px;
+    margin-top: 5px;
+    font-size: xx-large;
+    cursor: pointer;  
+    background-color:lightgrey;
+    margin-bottom: 3px;
+}
+.b19{
+    width: 145px;
+    height:70px;
+    font-size: xx-large;
+    cursor: pointer; 
+    background:orange;
+}
+.b4{
+    width: 70px;
+    height:70px;
+    font-size: x-large;
+    cursor: pointer; 
+    background:orange;
+    margin-top: 5px;
+}
+.result{
+    width:285px;
+    height:60px;
+    text-align: right;
+    font-size: xx-large;
+}
+
+    
+
+
+
+
