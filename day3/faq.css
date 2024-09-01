@@ -1,0 +1,23 @@
+.faq{
+    margin-bottom:20px;
+}
+.answer{
+    margin-top: 15px;
+    font-size:large;
+    display:none;
+
+}
+.que{
+    cursor:pointer;
+    font-weight: bolder;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size:larger;
+    text-align: center;
+
+}
+.arrow{
+    font-size: 15px;
+    margin-right: 10px;
+}
