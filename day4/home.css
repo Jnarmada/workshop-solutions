@@ -1,0 +1,89 @@
+*{
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+    border:border-box;
+
+}
+.topbar{
+    height:20vh;
+    background-color:black;
+    color: white;
+    display: flex;
+    align-items: center;
+    margin: 0;
+    
+
+}
+.topbar p{
+    font-size:xxx-large;
+    font-family:'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+    height:25vh;
+    align-items: center;
+    flex-grow:1;
+    text-align: center;
+    color: WHITE;
+    padding: 10em;
+    width:7vw;
+    
+}
+.update-bar{
+    height: 70vh;
+
+}
+.update{
+    font-size:50px;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-bottom: 1em;
+    margin-top:2em;
+    
+}
+.update-images{
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+    
+}
+.image-container img{
+width:15vw;
+height:auto;
+transition: transform 0.3s ease;
+}
+.image-container:hover img{
+    transform:scale(1.1);
+}
+.offer-bar{
+    background-color:rgb(164, 188, 222);
+    height:5vh;
+    margin-top: 2em;
+}
+.offer{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 1em;
+}
+.home{
+    color: black;
+    margin-top: 2%;
+    margin-left: 25%;
+    font-size: x-large;
+    
+}
+.link{
+    background-color:antiquewhite;
+    display: flex;
+    align-items: center;
+    margin: 0;
+    justify-content: space-between;
+    word-spacing:25px;
+    height: 8vh;
+}
+.fa-solid a:hover,
+.fa-solid a.active{
+    color:rgb(255, 255, 255);
+}
+
+
+
+

@@ -1,0 +1,44 @@
+.title{
+    font-size: 40PX;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.book-images{
+    display: flex;
+    align-items:center;
+    justify-content: space-evenly;
+}
+.image-container img{
+    width:15vw;
+    height:auto;
+    transition: transform 0.3s ease;
+    }
+    .image-container:hover img{
+        transform:scale(1.2);
+    }
+    .des{
+        font-size:large;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    }
+  .home-text{
+    display: flex;
+    align-items: center;
+    font-size:xx-large;
+    font-family:'Times New Roman', Times, serif;
+    justify-content: center;
+    text-align: center;
+  }
+  .link{
+    background-color:antiquewhite;
+    display: flex;
+    align-items: center;
+    margin: 0;
+    justify-content: space-between;
+    word-spacing:25px;
+    height: 10vh;
+}
+.fa-solid a:hover,
+.fa-solid a.active{
+    color:rgb(255, 255, 255);
+}
+    
+    
